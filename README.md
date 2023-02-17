@@ -2,7 +2,7 @@
 
 Hello, all.
 
-The following is the progress of peer-reviewed assignment submissions I have made throughout the specialization. Starting in Course 2, the prompt generated from the *Sharpen* simulator (or you can visit [here](https://sharpen.design/) for ideas) is:
+The following is the progress of peer-reviewed assignment submissions I have made throughout the specialization. Starting in Course 2, the prompt generated from the *Sharpen* simulator (Prompts can also be generated [here](https://sharpen.design/)) is:
 
 > Design a food delivery app for your favorite food truck
 
