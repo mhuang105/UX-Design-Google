@@ -6,7 +6,7 @@ The following is the progress of peer-reviewed assignment submissions I have mad
 
 > Design a food delivery app for your favorite food truck
 
-__**IMPORTANT DISCLAIMER:**__ Please do not copy and paste any of the material as your own. Thank you!
+__**IMPORTANT DISCLAIMER:**__ All contents in my submissions are entirely fictional and solely for course-related submission purposes. Please do not copy and paste the file or use any part of it as your own. Thank you!
 
 ### Course 2: Start the UX Design Process: Empathize, Define, and Ideate
 
