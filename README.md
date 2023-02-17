@@ -18,6 +18,10 @@ __**IMPORTANT DISCLAIMER:**__ All contents in my submissions are entirely fictio
 
 ### Course 3: Build Wireframes and Low-Fidelity Prototypes
 
+**Module 1:**
+- [UX Design Storyboard (Big Picture)](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20Storyboard%20(Big%20Picture)%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
+- [UX Design Storyboard (Close-Up)](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20Storyboard%20(Close-Up)%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
+
 ### Course 4: Conduct UX Research and Test Early Concepts
 
 ### Later Courses (Coming Soon!)
