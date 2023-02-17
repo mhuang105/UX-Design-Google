@@ -10,6 +10,10 @@ __**IMPORTANT DISCLAIMER:**__ All contents in my submissions are entirely fictio
 
 ### Course 2: Start the UX Design Process: Empathize, Define, and Ideate
 
+**Module 1:** [UX User Persona](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20User%20Persona%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pptx)
+
+**Module 2:** [UX User Journey](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20User%20Journey%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pptx)
+
 ### Course 3: Build Wireframes and Low-Fidelity Prototypes
 
 ### Course 4: Conduct UX Research and Test Early Concepts
