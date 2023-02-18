@@ -11,20 +11,23 @@ __**IMPORTANT DISCLAIMER:**__ All contents in my submissions are entirely fictio
 ### Course 2: Start the UX Design Process: Empathize, Define, and Ideate
 
 **Module 1:**
-- [User Persona](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20User%20Persona%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
+- [User Persona](https://github.com/mhuang105/UX-Design-Google/blob/main/Course%202/Google%20UX%20User%20Persona%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
 
 **Module 2:**
-- [User Journey](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20User%20Journey%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
+- [User Journey](https://github.com/mhuang105/UX-Design-Google/blob/main/Course%202/Google%20UX%20User%20Journey%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
 
 **Module 4:**
-- [Competitive Audit](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20Competitive%20Audit%20-%20Food%20Delivery%20App%20for%20Food%20Truck%20-%20Template.pdf)
+- [Competitive Audit](https://github.com/mhuang105/UX-Design-Google/blob/main/Course%202/Google%20UX%20Competitive%20Audit%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
+- [Competitive Audit Report](https://github.com/mhuang105/UX-Design-Google/blob/main/Course%202/Google%20UX%20Competitive%20Audit%20Report%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
 
-### Course 3: Build Wireframes and Low-Fidelity Prototypes
+### Course 3: Build Wireframes and Low-Fidelity Prototypes (Coming Soon!)
 
 **Module 1:**
-- [UX Design Storyboard (Big Picture)](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20Storyboard%20(Big%20Picture)%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
-- [UX Design Storyboard (Close-Up)](https://github.com/mhuang105/UX-Design-Google/blob/main/Google%20UX%20Storyboard%20(Close-Up)%20-%20Food%20Delivery%20App%20for%20Food%20Truck.pdf)
 
-### Course 4: Conduct UX Research and Test Early Concepts
+**Module 2**
+
+**Module 3**
+
+### Course 4: Conduct UX Research and Test Early Concepts (Coming Soon!)
 
 ### Later Courses (Coming Soon!)
